@@ -1,0 +1,4 @@
+split,metal,plastic
+test,75,75
+train,300,300
+validation,75,75

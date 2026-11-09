@@ -1,0 +1,55 @@
+time,file,label,object_id,accepted,reasons,peak,event_rms,noise_rms,snr_db,zero_frac,clip_frac,gain_shift
+2026-10-29 20:44:27,2_Audio_Dataset\_rejected\metal_obj01_067.wav,metal,1,False,"overloaded: 2 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.71041,0.03818,0.000606,35.99,0.001,0.0,default
+2026-10-29 20:44:40,2_Audio_Dataset\Metal\metal_obj01_067.wav,metal,1,True,,0.7403,0.03555,0.000626,35.09,0.0011,0.0,default
+2026-10-29 20:44:48,2_Audio_Dataset\Metal\metal_obj01_068.wav,metal,1,True,,0.64385,0.0383,0.000594,36.19,0.0012,0.0,default
+2026-10-29 20:44:55,2_Audio_Dataset\Metal\metal_obj01_069.wav,metal,1,True,,0.45044,0.02983,0.000652,33.21,0.0016,0.0,default
+2026-10-29 20:45:02,2_Audio_Dataset\_rejected\metal_obj01_070.wav,metal,1,False,"overloaded: 19 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.85422,0.09135,0.000587,43.84,0.0006,0.0,default
+2026-10-29 20:45:21,2_Audio_Dataset\_rejected\metal_obj01_071.wav,metal,1,False,"overloaded: 20 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.96828,0.06489,0.000558,41.32,0.001,0.0,default
+2026-10-29 20:45:30,2_Audio_Dataset\_rejected\metal_obj01_072.wav,metal,1,False,"overloaded: 4 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.92468,0.0568,0.000638,38.99,0.0011,0.0,default
+2026-10-29 20:45:38,2_Audio_Dataset\Metal\metal_obj01_070.wav,metal,1,True,,0.62527,0.03016,0.000612,33.86,0.0014,0.0,default
+2026-10-29 20:45:46,2_Audio_Dataset\Metal\metal_obj01_071.wav,metal,1,True,,0.63153,0.02866,0.000616,33.35,0.0012,0.0,default
+2026-10-29 20:46:21,2_Audio_Dataset\Metal\metal_obj02_072.wav,metal,2,True,,0.4577,0.02537,0.000598,32.56,0.0015,0.0,default
+2026-10-29 20:46:28,2_Audio_Dataset\_rejected\metal_obj02_073.wav,metal,2,False,"overloaded: 27 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.8839,0.09847,0.0006,44.3,0.001,0.0,default
+2026-10-29 20:46:39,2_Audio_Dataset\Metal\metal_obj02_073.wav,metal,2,True,,0.51361,0.02939,0.000578,34.12,0.0006,0.0,default
+2026-10-29 20:46:45,2_Audio_Dataset\Metal\metal_obj02_074.wav,metal,2,True,,0.48721,0.02416,0.000566,32.6,0.0016,0.0,default
+2026-10-29 20:46:51,2_Audio_Dataset\Metal\metal_obj02_075.wav,metal,2,True,,0.45498,0.02674,0.000545,33.82,0.001,0.0,default
+2026-10-29 20:46:56,2_Audio_Dataset\Metal\metal_obj02_076.wav,metal,2,True,,0.50316,0.02914,0.000589,33.89,0.0014,0.0,default
+2026-10-29 20:47:32,2_Audio_Dataset\_rejected\metal_obj03_077.wav,metal,3,False,"overloaded: 13 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.83328,0.08858,0.00067,42.42,0.0013,0.0,default
+2026-10-29 20:47:44,2_Audio_Dataset\_rejected\metal_obj03_078.wav,metal,3,False,"overloaded: 11 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.89389,0.1017,0.000619,44.31,0.0013,0.0,default
+2026-10-29 20:48:27,2_Audio_Dataset\Metal\metal_obj03_077.wav,metal,3,True,,0.43534,0.0227,0.000684,30.42,0.0015,0.0,default
+2026-10-29 20:48:33,2_Audio_Dataset\_rejected\metal_obj03_079.wav,metal,3,False,"overloaded: 24 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.89471,0.09771,0.00064,43.67,0.0015,0.0,default
+2026-10-29 20:48:39,2_Audio_Dataset\_rejected\metal_obj03_080.wav,metal,3,False,"overloaded: 3 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.84126,0.03803,0.000627,35.66,0.0006,0.0,default
+2026-10-29 20:48:49,2_Audio_Dataset\_rejected\metal_obj03_081.wav,metal,3,False,"overloaded: 8 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.90823,0.0756,0.000862,38.86,0.0013,0.0,default
+2026-10-29 20:49:16,2_Audio_Dataset\Metal\metal_obj03_078.wav,metal,3,True,,0.5292,0.02642,0.000568,33.36,0.0012,0.0,default
+2026-10-29 20:49:20,2_Audio_Dataset\Metal\metal_obj03_079.wav,metal,3,True,,0.22234,0.03519,0.000637,34.84,0.0015,0.0,default
+2026-10-29 20:49:27,2_Audio_Dataset\Metal\metal_obj03_080.wav,metal,3,True,,0.41881,0.02229,0.000574,31.78,0.0018,0.0,default
+2026-10-29 20:49:32,2_Audio_Dataset\Metal\metal_obj03_081.wav,metal,3,True,,0.38128,0.02526,0.000534,33.5,0.0025,0.0,default
+2026-10-29 20:50:26,2_Audio_Dataset\Metal\metal_obj04_082.wav,metal,4,True,,0.38488,0.03108,0.000575,34.66,0.0011,0.0,default
+2026-10-29 20:50:34,2_Audio_Dataset\Metal\metal_obj04_083.wav,metal,4,True,,0.64101,0.03466,0.000573,35.63,0.0015,0.0,default
+2026-10-29 20:50:40,2_Audio_Dataset\Metal\metal_obj04_084.wav,metal,4,True,,0.75803,0.0341,0.000616,34.86,0.0009,0.0,default
+2026-10-29 20:50:44,2_Audio_Dataset\Metal\metal_obj04_085.wav,metal,4,True,,0.32905,0.02975,0.000534,34.92,0.0018,0.0,default
+2026-10-29 20:50:50,2_Audio_Dataset\Metal\metal_obj04_086.wav,metal,4,True,,0.36571,0.02896,0.000598,33.71,0.0012,0.0,default
+2026-10-29 20:51:41,2_Audio_Dataset\Plastic\plastic_obj01_067.wav,plastic,1,True,,0.3093,0.01995,0.000583,30.69,0.0022,0.0,default
+2026-10-29 20:51:49,2_Audio_Dataset\Plastic\plastic_obj01_068.wav,plastic,1,True,,0.23469,0.0149,0.000659,27.08,0.001,0.0,default
+2026-10-29 20:51:56,2_Audio_Dataset\Plastic\plastic_obj01_069.wav,plastic,1,True,,0.16488,0.00909,0.000675,22.58,0.0012,0.0,default
+2026-10-29 20:52:20,2_Audio_Dataset\Plastic\plastic_obj01_070.wav,plastic,1,True,,0.3211,0.01766,0.000677,28.33,0.0024,0.0,default
+2026-10-29 20:52:35,2_Audio_Dataset\Plastic\plastic_obj01_071.wav,plastic,1,True,,0.23354,0.00929,0.000658,22.99,0.0014,0.0,default
+2026-10-29 20:53:01,2_Audio_Dataset\Plastic\plastic_obj02_072.wav,plastic,2,True,,0.31415,0.01643,0.000729,27.06,0.0017,0.0,default
+2026-10-29 20:53:05,2_Audio_Dataset\Plastic\plastic_obj02_073.wav,plastic,2,True,,0.1835,0.01312,0.000601,26.78,0.0016,0.0,default
+2026-10-29 20:53:10,2_Audio_Dataset\Plastic\plastic_obj02_074.wav,plastic,2,True,,0.25366,0.01458,0.000613,27.52,0.0016,0.0,default
+2026-10-29 20:53:15,2_Audio_Dataset\Plastic\plastic_obj02_075.wav,plastic,2,True,,0.21005,0.01278,0.000658,25.77,0.0009,0.0,default
+2026-10-29 20:53:25,2_Audio_Dataset\Plastic\plastic_obj02_076.wav,plastic,2,True,,0.27256,0.01584,0.000614,28.24,0.0016,0.0,default
+2026-10-29 20:54:10,2_Audio_Dataset\Plastic\plastic_obj03_077.wav,plastic,3,True,,0.31922,0.0144,0.000697,26.31,0.0011,0.0,default
+2026-10-29 20:54:15,2_Audio_Dataset\Plastic\plastic_obj03_078.wav,plastic,3,True,,0.26391,0.0161,0.000672,27.59,0.0017,0.0,default
+2026-10-29 20:54:20,2_Audio_Dataset\Plastic\plastic_obj03_079.wav,plastic,3,True,,0.34463,0.01854,0.000659,28.98,0.0022,0.0,default
+2026-10-29 20:54:24,2_Audio_Dataset\Plastic\plastic_obj03_080.wav,plastic,3,True,,0.42265,0.01343,0.000697,25.69,0.0018,0.0,default
+2026-10-29 20:54:30,2_Audio_Dataset\Plastic\plastic_obj03_081.wav,plastic,3,True,,0.12822,0.01022,0.000673,23.63,0.002,0.0,default
+2026-10-29 21:18:33,2_Audio_Dataset\_rejected\plastic_obj04_082.wav,plastic,4,False,"overloaded: 12 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.95741,0.06699,0.000653,40.22,0.0015,0.0,default
+2026-10-29 21:18:40,2_Audio_Dataset\_rejected\plastic_obj04_083.wav,plastic,4,False,"overloaded: 10 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.96714,0.05834,0.000617,39.51,0.0006,0.0,default
+2026-10-29 21:18:53,2_Audio_Dataset\Plastic\plastic_obj04_082.wav,plastic,4,True,,0.73794,0.03632,0.000563,36.2,0.0009,0.0,default
+2026-10-29 21:19:01,2_Audio_Dataset\Plastic\plastic_obj04_083.wav,plastic,4,True,,0.39804,0.02126,0.000546,31.82,0.0006,0.0,default
+2026-10-29 21:19:08,2_Audio_Dataset\Plastic\plastic_obj04_084.wav,plastic,4,True,,0.26087,0.01874,0.000645,29.27,0.001,0.0,default
+2026-10-29 21:19:13,2_Audio_Dataset\_rejected\plastic_obj04_085.wav,plastic,4,False,"overloaded: 3 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.76033,0.02806,0.000568,33.87,0.001,0.0,default
+2026-10-29 21:19:24,2_Audio_Dataset\Plastic\plastic_obj04_085.wav,plastic,4,True,,0.57082,0.01621,0.000586,28.84,0.0008,0.0,default
+2026-10-29 21:19:30,2_Audio_Dataset\_rejected\plastic_obj04_086.wav,plastic,4,False,"overloaded: 9 wrap-around spikes (impact too loud for the mic) - put foam under the mic, move it farther from the tray, or drop from lower",0.95261,0.07935,0.000585,42.64,0.0011,0.0,default
+2026-10-29 21:19:43,2_Audio_Dataset\Plastic\plastic_obj04_086.wav,plastic,4,True,,0.82148,0.05474,0.000782,36.9,0.0008,0.0,default

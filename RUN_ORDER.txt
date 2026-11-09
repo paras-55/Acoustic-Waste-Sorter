@@ -1,0 +1,34 @@
+SOUND-BASED WASTE CLASSIFICATION - RUN ORDER
+============================================
+Always CLOSE the Arduino Serial Monitor before running any Python script
+(only one program can use COM5). All commands are run from the project folder:
+    cd C:\Users\Paras\OneDrive\Desktop\Sound_Based_Waste_Classification
+
+0. Upload firmware (once, and after changing angles)
+   Arduino IDE > File > Open > 1_ESP32_Code\WasteSorter\WasteSorter.ino
+   Board: ESP32 Dev Module, Port: COM5 > Upload.
+
+1. Microphone check            python 4_Integration\mic_check.py
+   PASS -> listen to 4_Test_Results\mic_check.wav, go on.
+   MIC_FAULT -> send the DIAG lines; use step 6 fallback meanwhile.
+
+2. Servo link test             python 4_Integration\sorter_controller.py test
+   Tray angles                 python 4_Integration\sorter_controller.py angle
+
+3. Record dataset (10 accepted clips per object, >= 3 objects per material, aim 5-6)
+   python 2_Audio_Dataset\record_audio.py metal 1
+   python 2_Audio_Dataset\record_audio.py plastic 1
+   ... objects 2, 3, 4 ...
+
+4. Train                       python 3_ML_Model\train_model.py
+   Model is saved ONLY if every check passes. Report: 4_Test_Results\training_report.txt
+
+5. Live demo                   python 4_Integration\sorter_controller.py live --ask-truth
+
+6. Clearly-labelled fallbacks (say which one you are using during the demo)
+   python 4_Integration\sorter_controller.py manual
+   python 4_Integration\sorter_controller.py replay 2_Audio_Dataset\Metal
+
+Files that replace older ones: record_audio.py (new version), train_model.py (new version).
+Not used any more: 3_ML_Model\train_classifier.py, 1_ESP32_Code\WasteSorter.ino\ (old folder),
+1_ESP32_Code\AudioRecorder\ (old mic sketch). Kept untouched for reference.

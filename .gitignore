@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+Documentation/
+for_claude/

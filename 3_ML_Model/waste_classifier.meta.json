@@ -1,0 +1,78 @@
+{
+  "classes": [
+    "metal",
+    "plastic"
+  ],
+  "feature_names": [
+    "band_0_250Hz",
+    "band_250_500Hz",
+    "band_500_750Hz",
+    "band_750_1000Hz",
+    "band_1000_1500Hz",
+    "band_1500_2000Hz",
+    "band_2000_2500Hz",
+    "band_2500_3000Hz",
+    "band_3000_3500Hz",
+    "band_3500_4000Hz",
+    "band_4000_5000Hz",
+    "band_5000_6000Hz",
+    "band_6000_8000Hz",
+    "centroid_hz",
+    "bandwidth_hz",
+    "flatness",
+    "tonality_db",
+    "drop_0_10ms_vs_30_50ms_db",
+    "drop_0_10ms_vs_80_120ms_db",
+    "time_to_drop_15db_s",
+    "zcr_first_50ms"
+  ],
+  "feature_version": 4,
+  "sample_rate": 16000,
+  "gate": {
+    "min_duration_s": 0.5,
+    "max_zero_frac": 0.5,
+    "max_clip_frac": 0.001,
+    "min_event_rms": 0.003,
+    "min_snr_db": 15.0
+  },
+  "model_version": "20261030-133102",
+  "trained_on": "real recordings + labelled live drops",
+  "cv": {
+    "accuracy": 0.8,
+    "balanced_accuracy": 0.8,
+    "n_splits": 4,
+    "confusion_matrix": [
+      [
+        14,
+        6
+      ],
+      [
+        2,
+        18
+      ]
+    ],
+    "labels": [
+      "plastic",
+      "metal"
+    ],
+    "synthetic_only_on_real": null
+  },
+  "n_clips": {
+    "plastic": 20,
+    "metal": 20
+  },
+  "objects": {
+    "plastic": [
+      "plastic-obj1",
+      "plastic-obj2",
+      "plastic-obj3",
+      "plastic-obj4"
+    ],
+    "metal": [
+      "metal-obj1",
+      "metal-obj2",
+      "metal-obj3",
+      "metal-obj4"
+    ]
+  }
+}

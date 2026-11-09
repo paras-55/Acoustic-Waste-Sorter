@@ -1,0 +1,152 @@
+Training run 2026-10-30 13:31:00  gate={'min_duration_s': 0.5, 'max_zero_frac': 0.5, 'max_clip_frac': 0.001, 'min_event_rms': 0.003, 'min_snr_db': 15.0}
+SKIP   2_Audio_Dataset\Plastic\plastic_001.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_002.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_003.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_004.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_005.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_006.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_007.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_008.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_009.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_010.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_011.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_012.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_013.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_014.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_015.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_016.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_017.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_018.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_019.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_020.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_021.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_022.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_023.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_024.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_025.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_026.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_027.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_028.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_029.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_030.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_031.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_032.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_033.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_034.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_035.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_036.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_037.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_038.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_039.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_040.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_041.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_042.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_043.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_044.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_045.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_046.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_047.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_048.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_049.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_050.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_051.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_052.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_053.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_054.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_055.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_056.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_057.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_058.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_059.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_060.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_061.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_062.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_063.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_064.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_065.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Plastic\plastic_066.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_001.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_002.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_003.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_004.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_005.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_006.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_007.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_008.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_009.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_010.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_011.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_012.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_013.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_014.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_015.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_016.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_017.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_018.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_019.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_020.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_021.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_022.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_023.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_024.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_025.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_026.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_027.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_028.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_029.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_030.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_031.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_032.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_033.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_034.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_035.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_036.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_037.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_038.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_039.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_040.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_041.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_042.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_043.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_044.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_045.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_046.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_047.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_048.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_049.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_050.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_051.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_052.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_053.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_054.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_055.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_056.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_057.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_058.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_059.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_060.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_061.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_062.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_063.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_064.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_065.wav: legacy file (old mic stream) - use --include-legacy to test it
+SKIP   2_Audio_Dataset\Metal\metal_066.wav: legacy file (old mic stream) - use --include-legacy to test it
+Live drops: 0 with object number (used in validation), 85 without (training only), 0 rejected by the gate
+
+plastic : 20 accepted clips from 4 objects ['plastic-obj1', 'plastic-obj2', 'plastic-obj3', 'plastic-obj4']
+metal   : 20 accepted clips from 4 objects ['metal-obj1', 'metal-obj2', 'metal-obj3', 'metal-obj4']
+
+Grouped cross-validation: 4 folds, test objects never seen in training
+  fold 1: test objects ['metal-obj2', 'plastic-obj1']  acc=0.70
+  fold 2: test objects ['metal-obj3', 'plastic-obj2']  acc=0.90
+  fold 3: test objects ['metal-obj1', 'plastic-obj3']  acc=0.90
+  fold 4: test objects ['metal-obj4', 'plastic-obj4']  acc=0.70
+
+Out-of-fold accuracy:          0.800
+Out-of-fold balanced accuracy: 0.800
+Confusion matrix (rows = true, cols = predicted)   plastic  metal
+  plastic                                           14      6
+  metal                                              2     18
+
+MODEL SAVED: 3_ML_Model\waste_classifier.joblib  (version 20261030-133102)
+Trained on: real recordings + labelled live drops
